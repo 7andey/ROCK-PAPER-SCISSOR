@@ -23,20 +23,7 @@ button{
     border-radius: 5px
 }
 
-#start-btn{
-    background: goldenrod;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    font-weight: bolder;
-    
-}
-#newcard-btn{
-    background: goldenrod;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    font-weight: bolder;
 
-}
 
 #play-btn{
     background: goldenrod;
